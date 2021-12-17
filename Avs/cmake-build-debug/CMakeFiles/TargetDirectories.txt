@@ -1,0 +1,3 @@
+C:/Users/Misha/Desktop/ClionProjects/Avs/cmake-build-debug/CMakeFiles/Avs.dir
+C:/Users/Misha/Desktop/ClionProjects/Avs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Misha/Desktop/ClionProjects/Avs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
